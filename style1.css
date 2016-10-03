@@ -1,0 +1,18 @@
+#wrapper{
+  border: green 2px dashed;
+}
+
+#border{
+border: black 5px solid;
+margin: 200px 100px 200px 100px;
+padding:20px;
+}
+
+#picture{
+  border: white 5px dashed;
+}
+
+
+body{
+  background-color: blue;
+}

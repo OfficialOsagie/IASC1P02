@@ -1,0 +1,37 @@
+#border{
+  border: purple 2px dashed;
+  margin: 10px 5px 5px 10px;
+  padding: 250px 10px 10px 10px;
+}
+
+#word{
+  text-align: center;
+}
+
+#word1{
+  color: green;
+  text-align: center;
+  font-size: 8px;
+
+}
+
+.orange{
+  text-align: left;
+  color: orange;
+  font-size: 40px;
+}
+
+.red{
+vertical-align: super;
+color: red;
+}
+
+.purple{
+text-align: right;
+color: purple;
+font-size: 6px;
+}
+
+.yellow{
+color: yellow;
+}
