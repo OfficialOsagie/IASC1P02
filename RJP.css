@@ -1,0 +1,49 @@
+a {
+	font-size: x-large;
+	color: #F00;
+	font-weight: bold;
+}
+
+
+body,td,th {
+	font-family: high tower text;
+	color: #00F;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+
+.b {
+	font-size: medium;
+	color: #F00;
+	font-weight: bold;
+}
+
+#black{
+background-color: black;
+width: 1350px;
+}
+
+.white{
+  color: white;
+  text-align: center;
+  font-size: 50;
+  font-style: oblique;
+
+}
+
+.whites{
+  color: white;
+  text-align: center;
+  font-size: 25;
+  font-style: oblique;
+
+}
+
+.whiter{
+  color: white;
+  text-align: center;
+  font-size: 25;
+  font-style: oblique;
+
+}
