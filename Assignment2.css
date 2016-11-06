@@ -1,0 +1,44 @@
+.red{
+  color: red;
+}
+
+.big{
+  color: green;
+  font-family:Times, serif;
+  font-size: 30px;
+}
+
+.orange{
+  text-align: left;
+  color: blue;
+  font-size: 20px;
+}
+
+.grey{
+  vertical-align: super;
+  color: grey;
+}
+
+div p{
+  color: blue;
+}
+
+#box{
+  margin: 20px 10% 20px 10%;
+  border: black 5px dashed;
+  padding: 20px
+}
+
+body{
+  background-color: gold;
+}
+
+.class1, .class2{
+  color: white;
+  text-align: right;
+}
+
+
+.position{
+  position: absolute;
+}
